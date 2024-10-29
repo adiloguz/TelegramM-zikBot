@@ -1,2 +1,2 @@
-# TelegramM-zikBot
+# TelegramMuzikBot
 Müzik Botu
