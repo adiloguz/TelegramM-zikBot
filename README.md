@@ -1,6 +1,5 @@
 # TelegramMuzikBot
 
-# Telegram Music Bot
 
 Bu proje, Telegram botu olarak çalışan bir müzik indirme aracıdır. Kullanıcılar, bot ile istedikleri şarkının adını yazarak şarkının ses dosyasını indirip alabilirler. Bot, **yt-dlp** kütüphanesini kullanarak YouTube'dan ses dosyalarını indirmektedir.
 
